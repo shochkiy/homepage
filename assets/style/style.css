@@ -5,3 +5,11 @@
 .job {
     margin-bottom: 1rem;
 }
+
+.instagram:hover {
+    color: #e4405f;
+}
+
+.twitter:hover {
+    color: #1DA1F2;
+}
