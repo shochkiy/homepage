@@ -14,3 +14,7 @@
 .twitter:hover {
     color: #1DA1F2;
 }
+
+.divider.fat {
+    border-top-color: #0645AD;
+}
