@@ -24,3 +24,7 @@
   font-size: 1.25rem;
   letter-spacing: 0.15em;
 }
+
+.inside-dropdown {
+  padding-top: 10px;
+}
