@@ -18,3 +18,9 @@
 .divider.fat {
     border-top-color: #0000ff;
 }
+
+.dropdown {
+    font-weight: 700;
+    font-size: 1.25rem;
+    letter-spacing: 0.15em;
+}
